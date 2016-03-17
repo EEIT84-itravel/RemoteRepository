@@ -7,13 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-<h1><a href="">Servlet1</a></h1>
-<h1><a href="/Proj01Web/doServlet2">Servlet2</a></h1>
-<h1><a href="">Servlet3</a></h1>
-<h1><a href="">Servlet4</a></h1>
-<h1><a href="servlet5">Servlet5</a></h1>
-<h1><a href="">Servlet6</a></h1>
+哈哈哈
 </body>
 </html>
