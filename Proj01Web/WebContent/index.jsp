@@ -9,7 +9,7 @@
 <body>
 <h1><a href="">Servlet1</a></h1>
 <h1><a href="">Servlet2</a></h1>
-<h1><a href="">Servlet3</a></h1>
+<h1><a href="servlet3.controller">Servlet3</a></h1>
 <h1><a href="">Servlet4</a></h1>
 <h1><a href="servlet5">Servlet5</a></h1>
 <h1><a href="">Servlet6</a></h1>
