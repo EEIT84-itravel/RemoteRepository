@@ -19,7 +19,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>servletJ</servlet-name>
-		<url-pattern></url-pattern>
+		<url-pattern>/servlet5</url-pattern>
 	</servlet-mapping>
 
 </web-app>
