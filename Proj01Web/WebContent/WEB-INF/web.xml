@@ -20,5 +20,15 @@
 		<servlet-name>servlet3</servlet-name>
 		<url-pattern>/servlet3.controller</url-pattern>
 	</servlet-mapping>
+	<servlet>
+		<servlet-name>servlet5</servlet-name>
+		<servlet-class>controller.Servlet5</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>servlet5</servlet-name>
+		<url-pattern>/servlet5</url-pattern>
+	</servlet-mapping>
 
 </web-app>
+
+		
