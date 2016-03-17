@@ -1,5 +1,9 @@
 /build/
 /.settings/
+<<<<<<< HEAD
 /.classpath
 /.project
 
+=======
+/.gitignore
+>>>>>>> branch 'master' of https://github.com/EEIT84-itravel/RemoteRepository.git
