@@ -9,4 +9,12 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+  <servlet-name>Servlet6</servlet-name>
+  <servlet-class>controller.Servlet6</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>Servlet6</servlet-name>
+  <url-pattern>/Servlet6</url-pattern>
+  </servlet-mapping>
 </web-app>
