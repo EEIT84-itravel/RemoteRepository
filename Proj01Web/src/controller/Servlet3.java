@@ -13,6 +13,8 @@ public class Servlet3 extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("AAA");
+		System.out.println("BBB");
+		System.out.println("CCC");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
