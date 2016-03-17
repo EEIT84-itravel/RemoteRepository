@@ -14,11 +14,11 @@
 	</welcome-file-list>
 
 	<servlet>
-		<servlet-name>servletJ</servlet-name>
+		<servlet-name>servlet5</servlet-name>
 		<servlet-class>controller.Servlet5</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>servletJ</servlet-name>
+		<servlet-name>servlet5</servlet-name>
 		<url-pattern>/servlet5</url-pattern>
 	</servlet-mapping>
 
