@@ -9,10 +9,10 @@
 <body>
 
 <h1><a href="/Proj01Web/Servlet.controller">Servlet1</a></h1>
-<h1><a href="/Proj01Web/Servlet.controller">Servlet2</a></h1>
-<h1><a href="/Proj01Web/Servlet.controller">Servlet3</a></h1>
-<h1><a href="/Proj01Web/Servlet.controller">Servlet4</a></h1>
-<h1><a href="/Proj01Web/Servlet.controller">Servlet5</a></h1>
-<h1><a href="/Proj01Web/Servlet.controller">Servlet6</a></h1>
+<h1><a href="">Servlet2</a></h1>
+<h1><a href="">Servlet3</a></h1>
+<h1><a href="">Servlet4</a></h1>
+<h1><a href="">Servlet5</a></h1>
+<h1><a href="">Servlet6</a></h1>
 </body>
 </html>
